@@ -11,7 +11,6 @@ Welcome to the **Cut-Tools Support**!
 The wiki is organized into the following sections:
 
 - [Introduction](https://github.com/ajtruckle/cut-tools-support/wiki/introduction)
-- [Licensing](https://github.com/ajtruckle/cut-tools-support/wiki/licensing)
 - [Command Index](https://github.com/ajtruckle/cut-tools-support/wiki/command-index)
   - [Load Menu and Ribbon](https://github.com/ajtruckle/cut-tools-support/wiki/load-menu-and-ribbon)
   - [Unload Menu and Ribbon](https://github.com/ajtruckle/cut-tools-support/wiki/unload-menu-and-ribbon)
