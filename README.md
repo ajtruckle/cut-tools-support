@@ -46,4 +46,4 @@ The wiki is organized into the following sections:
 
 ## 📬 Support
 
-For support questions not answered in this wiki, please use the Issues section or reach out to me directly.
+For support questions not answered in this wiki, please use the [Issues](https://github.com/ajtruckle/cut-tools-support/issues) section or reach out to me directly.
