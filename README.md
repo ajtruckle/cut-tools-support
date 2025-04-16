@@ -4,7 +4,15 @@ Welcome to the **Cut-Tools Support**!
 
 ## 📘 Overview
 
-**Cut-Tools** is a plugin for **BricsCAD**. It is a handful of commands to aid in the creation of geometry for 2D Profile cutting using cutter / plotters, CNC routers and lasers. We hope that these tools can be useful for your business.
+**Cut-Tools** is a powerful plugin designed for **BricsCAD**, providing a suite of intuitive commands to streamline the creation of **2D cutting profiles** for various fabrication tools, including:
+* **CNC routers**
+* **Laser cutters**
+* **Vinyl cutters / plotters**
+* **Plasma cutters**
+
+This toolset simplifies the process of generating precise **vector geometry**, ensuring compatibility with industry-standard cutting machines. Whether you're designing for **woodworking, metal fabrication, signage, or hobbyist projects**, Cut-Tools helps optimize your workflow, reduce manual errors, and improve efficiency.
+
+We’ve developed these tools with small businesses and makers in mind, aiming to save you time and effort in preparing production-ready files. If you have feedback or feature requests, feel free to reach out!
 
 ## 📚 Table of Contents
 
