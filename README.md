@@ -46,3 +46,9 @@ The wiki is organized into the following sections:
 ## 📬 Support
 
 For support questions not answered in this wiki, please use the [Issues](https://github.com/ajtruckle/cut-tools-support/issues) section or reach out to me directly.
+
+## 📦 Purchase Information
+
+The **Cut-Tools** library is available for purchase for **£100**.  
+If you are interested in obtaining a copy or have any questions, please [get in touch](https://tally.so/r/mVxqYJ) for more information.
+
