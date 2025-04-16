@@ -39,7 +39,7 @@ The wiki is organized into the following sections:
 
 ## 🛠 Requirements
 
-- BricsCAD (version 25 or higher)
+- [BricsCAD](https://www.bricsys.com/en-gb/bricscad) (version 25 or higher)
 - Windows 10 or 11
 - .NET Framework (4.8)
 
